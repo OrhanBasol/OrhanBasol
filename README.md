@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OrhanBasol
 - 👀 I’m interested in Web Design
 - 🌱 I’m currently learning Front end web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me AhmetOrhanBasol@outlook.com
 
 <!---
