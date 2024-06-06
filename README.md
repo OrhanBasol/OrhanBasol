@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OrhanBasol
 - 👀 I’m interested in Web Design
 - 🌱 I’m currently learning Front end web development
-- 📫 How to reach me AhmetOrhanBasol@outlook.com
+
 
 <!---
 OrhanBasol/OrhanBasol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
