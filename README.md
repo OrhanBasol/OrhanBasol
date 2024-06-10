@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OrhanBasol
-- 👀 I’m interested in Web Design
-- 🌱 I’m currently learning Front end web development
+- 👀 I’m a Web Designer.
+- 🌱 I’m a Front end web developer.
 
 
 <!---
